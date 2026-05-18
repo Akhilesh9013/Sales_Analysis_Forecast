@@ -110,41 +110,6 @@ This project applies multiple forecasting and machine learning techniques to pre
 
 ---
 
-# 📷 Project Preview
-
-(Add screenshots of your dashboard, charts, or notebook outputs here)
-
----
-
-# 🚀 How to Run the Project
-
-```bash
-# Clone the repository
-git clone <your-repository-link>
-
-# Open the project folder
-cd <project-folder>
-
-# Install required libraries
-pip install -r requirements.txt
-
-# Run Jupyter Notebook
-jupyter notebook
-```
-
----
-
-# 📁 Project Structure
-
-```bash
-├── Sales_Analysis_Forecast.ipynb
-├── dataset.csv
-├── README.md
-└── requirements.txt
-```
-
----
-
 # 🎯 Project Outcome
 
 This project demonstrates strong skills in:
